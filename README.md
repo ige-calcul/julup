@@ -1,1 +1,1 @@
-# julup - Easy synchronization of files on JupyterLab
+# julup - Easily upload files on JupyterLab
