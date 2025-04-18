@@ -1,1 +1,2 @@
-# julup - Easily upload files on JupyterLab
+# juste - Jupyter Synchronization Tool E...
+Maintenant il faut juste trouver le temps.
